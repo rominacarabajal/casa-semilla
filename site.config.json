@@ -1,0 +1,20 @@
+{
+  "brand": {
+    "name": "Casa Semilla",
+    "orientation": "Orientación Norte",
+    "whatsapp": "+5493853063634",
+    "whatsapp_link": "https://wa.me/5493853063634",
+    "mp_link": "https://link.mercadopago.com.ar/casassemilla"
+  },
+  "pricing": {
+    "currency": "USD",
+    "total": 2500,
+    "etapa1": 900,
+    "etapa2": 800,
+    "etapa3": 800
+  },
+  "delivery": {
+    "download_file": "Carpeta Casa Semilla-orientacion norte-Etapa1",
+    "access_key": "SEMILLA-2500"
+  }
+}
